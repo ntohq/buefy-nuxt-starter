@@ -10,7 +10,7 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
-    "buefy": "npm:@ntohq/buefy-next@^0.1.4",
+    "buefy": "npm:@ntohq/buefy-next@^0.2.0",
     "nuxt": "^3.13.2",
     "vue": "latest",
     "vue-router": "latest"
